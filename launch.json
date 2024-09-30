@@ -1,0 +1,8 @@
+{
+    "name": "Python: gpt2_chat",
+    "type": "python",
+    "request": "launch",
+    "program": "${workspaceFolder}/gpt-2-train/src/gpt2_chat.py",
+    "cwd": "${workspaceFolder}/gpt-2-train/src"
+  }
+  
